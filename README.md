@@ -1,6 +1,9 @@
 ##"Hello everyone 👋🏻, I am aspiring to become a Full-Stack Developer 👨🏻‍💻😬, and I hope I do not go crazy in the process. I hope I can make it!🥹"
 
-![Funny GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjUwMWt6c3FlZnQwb3NwamEwcWlscGt6dW5tYTBoczE4ZnY4NGtwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDF3NTZjODd1cmhkNXp5NmN0ZW54cW5oYm9neTlxNjR4a3NmeWhxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
+</div>
+
 
 
 <!--
