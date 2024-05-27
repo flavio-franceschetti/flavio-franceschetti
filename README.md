@@ -1,4 +1,6 @@
-## Hi there 👋
+##"Hello everyone 👋🏻, I am aspiring to become a Full-Stack Developer 👨🏻‍💻😬, and I hope I do not go crazy in the process. I hope I can make it!🥹"
+
+<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
 
 <!--
 **flavio-franceschetti/flavio-franceschetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
